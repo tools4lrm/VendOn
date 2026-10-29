@@ -6,3 +6,4 @@ sistema para gerencia entrada e saida dos produtos estocados.assim como, control
 
 - cadastra usuario
 - cadastra produto
+- relatorio mensal do que entrou e saiu do caixa
